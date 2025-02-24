@@ -4,12 +4,12 @@ Personal Portfolio
 
 alt = Sagar Goli
 Sagar Goli
-Web developer
+Full Stack Software Engineer
 
 Show Contacts
 
 Email
-saggi.sagar@gmail.com
+golisagar1310@gmail.com
 
 Phone
 +1 (410) 599-7712
